@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "//jbest75.github.io/portfolio/static/css/main.11b32c0d.css",
-    "main.js": "//jbest75.github.io/portfolio/static/js/main.2a842ffc.js",
+    "main.css": "//jbest75.github.io/portfolio/static/css/main.7581b1ec.css",
+    "main.js": "//jbest75.github.io/portfolio/static/js/main.5aa24906.js",
     "static/js/453.a1f511ac.chunk.js": "//jbest75.github.io/portfolio/static/js/453.a1f511ac.chunk.js",
     "static/media/zombie-times.jpg": "//jbest75.github.io/portfolio/static/media/zombie-times.af89750d482542d701e7.jpg",
     "static/media/AJ-Logo.jpg": "//jbest75.github.io/portfolio/static/media/AJ-Logo.697350a1a10fc42c2900.jpg",
@@ -106,12 +106,12 @@
     "static/media/headerBg.jpg": "//jbest75.github.io/portfolio/static/media/headerBg.9b6510f303ae4e5cfc45.jpg",
     "static/media/afightersdietbook.jpg": "//jbest75.github.io/portfolio/static/media/afightersdietbook.f2a2ca4897ab811998a4.jpg",
     "index.html": "//jbest75.github.io/portfolio/index.html",
-    "main.11b32c0d.css.map": "//jbest75.github.io/portfolio/static/css/main.11b32c0d.css.map",
-    "main.2a842ffc.js.map": "//jbest75.github.io/portfolio/static/js/main.2a842ffc.js.map",
+    "main.7581b1ec.css.map": "//jbest75.github.io/portfolio/static/css/main.7581b1ec.css.map",
+    "main.5aa24906.js.map": "//jbest75.github.io/portfolio/static/js/main.5aa24906.js.map",
     "453.a1f511ac.chunk.js.map": "//jbest75.github.io/portfolio/static/js/453.a1f511ac.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.11b32c0d.css",
-    "static/js/main.2a842ffc.js"
+    "static/css/main.7581b1ec.css",
+    "static/js/main.5aa24906.js"
   ]
 }
