@@ -10,6 +10,7 @@ html {
 body {
     background: rgb(255, 255, 255);
     background: radial-gradient(circle, rgba(255, 255, 255, 1) 0%, rgba(232, 232, 232, 1) 100%);
+    min-width: 385px;
     color: #333;
 }
 
@@ -63,10 +64,18 @@ h1 .white {
     color: white;
 }
 
+h1 p {
+    margin: 0;
+}
+
 h1 .small {
     margin: 0;
-    padding: 1rem;
+    padding: 0 1rem .25rem;
     font-size: 13px;
+    color: #666;
+}
+
+small {
     color: #666;
 }
 

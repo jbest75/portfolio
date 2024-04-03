@@ -68,9 +68,10 @@ const ImageSlider = ({ slides }) => {
 
     return (
         <div className='wrapper'>
-            <h1>Design, Print & Frontend Work
-                <br />
-                <span className='red'>Angular</span> <span className='white'>Html</span> <span className='green'>CSS</span> <span className='blue'>React</span>
+            <h1>
+                <p><span>Joshua Best's</span> Portfolio</p>
+                <p><small>Design, Print & Frontend Developer</small></p>
+                <p><span className='red'>Angular</span> <span className='white'>Html</span> <span className='green'>CSS</span> <span className='blue'>React</span></p>
                 <p className='small'><b>&copy; Warrior Workshop LLC, Evil Duck Studios & Joshua Best.</b> Screenshots are &copy; by their perspective persons and or companys</p>
                 <img id="headerFlag" src={require("../images/usflag.png")} alt="Made In The USA!" tag="Made In The USA!"></img>
             </h1>
@@ -97,7 +98,7 @@ const ImageSlider = ({ slides }) => {
                             <FaReact className='blue' />
                         </p>
                     </div>
-                    <a className='choiceBtn notViewing' href='https://jbest75.github.io/RunelordsCardGame/' target='_blank'>
+                    <a className='choiceBtn notViewing' href='https://jbest75.github.io/RuneLordsGameInstructionsApp/' target='_blank'>
                         <FaHatWizard  className='icon wizard' />
                         <p>
                             <b>My Runlords Card Game App</b>

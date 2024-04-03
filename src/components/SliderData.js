@@ -12,39 +12,39 @@ export const SliderData = [
         description: 'Flawless Firearms - Designed and built the front end ontop of .net. Designed to work on Mobile Too!'
     },
     {
-        image: require('../images/slides/_USANA-activeNutrition-landing.jpg'),
+        image: require('../images/slides/USANA-activeNutrition-landing.jpg'),
         description: 'Usana Active Nutrition Quiz - built in Angular - landing. Designed to work on Mobile too!'
     },
     {
-        image: require('../images/slides/_USANA-activeNutrition-.jpg'),
+        image: require('../images/slides/USANA-activeNutrition-.jpg'),
         description: 'Usana Active Nutrition Quiz - built in Angular - P2. Designed to work on Mobile too!'
     },
     {
-        image: require('../images/slides/_USANA-activeNutrition-2.jpg'),
+        image: require('../images/slides/USANA-activeNutrition-2.jpg'),
         description: 'Usana Active Nutrition Quiz - built in Angular - P3. Designed to work on Mobile too!'
     },
     {
-        image: require('../images/slides/_USANA-activeNutrition-3.jpg'),
+        image: require('../images/slides/USANA-activeNutrition-3.jpg'),
         description: 'Usana Active Nutrition Quiz - built in Angular - P4. Designed to work on Mobile too!'
     },
     {
-        image: require('../images/slides/_USANA-activeNutrition-4.jpg'),
+        image: require('../images/slides/USANA-activeNutrition-4.jpg'),
         description: 'Usana Active Nutrition Quiz - built in Angular - P5. Designed to work on Mobile too!'
     },
     {
-        image: require('../images/slides/_USANA-activeNutrition-5.jpg'),
+        image: require('../images/slides/USANA-activeNutrition-5.jpg'),
         description: 'Usana Active Nutrition Quiz - built in Angular - P6. Designed to work on Mobile too!'
     },
     {
-        image: require('../images/slides/_USANA-activeNutrition-6.jpg'),
+        image: require('../images/slides/USANA-activeNutrition-6.jpg'),
         description: 'Usana Active Nutrition Quiz - built in Angular - P7. Designed to work on Mobile too!'
     },
     {
-        image: require('../images/slides/_USANA-activeNutrition-7.jpg'),
+        image: require('../images/slides/USANA-activeNutrition-7.jpg'),
         description: 'Usana Active Nutrition Quiz - built in Angular - P8. Designed to work on Mobile too!'
     },
     {
-        image: require('../images/slides/_USANA-activeNutrition-8.jpg'),
+        image: require('../images/slides/USANA-activeNutrition-8.jpg'),
         description: 'Usana Active Nutrition Quiz - built in Angular - P9. Designed to work on Mobile too!'
     },
     {
@@ -64,39 +64,39 @@ export const SliderData = [
         description: 'Survival Outlet - Design and frontend for shopify. Designed to work on Mobile too!'
     },
     {
-        image: require('../images/slides/_USANA-onlineEnrollment-1.jpg'),
+        image: require('../images/slides/USANA-onlineEnrollment-1.jpg'),
         description: 'Usana Online Enrollment - design & frontend - desktop view P1. Designed to work on Mobile too!'
     },
     {
-        image: require('../images/slides/_USANA-onlineEnrollment-2.jpg'),
+        image: require('../images/slides/USANA-onlineEnrollment-2.jpg'),
         description: 'Usana Online Enrollment - design & frontend - desktop view P2. Designed to work on Mobile too!'
     },
     {
-        image: require('../images/slides/_USANA-onlineEnrollment-3-shop.jpg'),
+        image: require('../images/slides/USANA-onlineEnrollment-3-shop.jpg'),
         description: 'Usana Online Enrollment - design & frontend - desktop view P3 - shopping. Designed to work on Mobile too!'
     },
     {
-        image: require('../images/slides/_USANA-onlineEnrollment-3-shop-navExpanded.jpg'),
+        image: require('../images/slides/USANA-onlineEnrollment-3-shop-navExpanded.jpg'),
         description: 'Usana Online Enrollment - design & frontend - desktop view side nav expanded - shopping. Designed to work on Mobile too!'
     },
     {
-        image: require('../images/slides/_USANA-onlineEnrollment-3-shop-productsLanding.jpg'),
+        image: require('../images/slides/USANA-onlineEnrollment-3-shop-productsLanding.jpg'),
         description: 'Usana Online Enrollment - design & frontend - desktop view P4 - shopping. Designed to work on Mobile too!'
     },
     {
-        image: require('../images/slides/_USANA-onlineEnrollment-3-shop-product.jpg'),
+        image: require('../images/slides/USANA-onlineEnrollment-3-shop-product.jpg'),
         description: 'Usana Online Enrollment - design & frontend - desktop view P5 - shopping. Designed to work on Mobile too!'
     },
     {
-        image: require('../images/slides/_USANA-onlineEnrollment-3-shop-toasters.jpg'),
+        image: require('../images/slides/USANA-onlineEnrollment-3-shop-toasters.jpg'),
         description: 'Usana Online Enrollment - design & frontend - desktop view toaster notifications. Designed to work on Mobile too!'
     },
     {
-        image: require('../images/slides/_USANA-onlineEnrollment-3-shop-DropDown.jpg'),
+        image: require('../images/slides/USANA-onlineEnrollment-3-shop-DropDown.jpg'),
         description: 'Usana Online Enrollment - design & frontend - desktop view cart dropdown. Designed to work on Mobile too!'
     },
     {
-        image: require('../images/slides/_USANA-onlineEnrollment-4-infoCollection.jpg'),
+        image: require('../images/slides/USANA-onlineEnrollment-4-infoCollection.jpg'),
         description: 'Usana Online Enrollment - design & frontend - desktop view P6. Designed to work on Mobile too!'
     },
     {
@@ -379,27 +379,27 @@ export const SliderDataMobile = [
         description: 'theZombieTimes.com - Mobile View - News Article - Created, designed, built and artircles/content by me using Jekyll.'
     },
     {
-        image: require('../images/slides/_USANA-mobile-onlineEnrollment-1.jpg'),
+        image: require('../images/slides/USANA-mobile-onlineEnrollment-1.jpg'),
         description: 'Usana Online Enrollment - design & frontend - Mobile View 1'
     },
     {
-        image: require('../images/slides/_USANA-mobile-onlineEnrollment-2.jpg'),
+        image: require('../images/slides/USANA-mobile-onlineEnrollment-2.jpg'),
         description: 'Usana Online Enrollment - design & frontend - Mobile View 2'
     },
     {
-        image: require('../images/slides/_USANA-mobile-onlineEnrollment-3-shop-landing.jpg'),
+        image: require('../images/slides/USANA-mobile-onlineEnrollment-3-shop-landing.jpg'),
         description: 'Usana Online Enrollment - design & frontend - Mobile View 3'
     },
     {
-        image: require('../images/slides/_USANA-mobile-onlineEnrollment-3-shop-product.jpg'),
+        image: require('../images/slides/USANA-mobile-onlineEnrollment-3-shop-product.jpg'),
         description: 'Usana Online Enrollment - design & frontend - Mobile View 4'
     },
     {
-        image: require('../images/slides/_USANA-mobile-onlineEnrollment-4-infoCollection.jpg'),
+        image: require('../images/slides/USANA-mobile-onlineEnrollment-4-infoCollection.jpg'),
         description: 'Usana Online Enrollment - design & frontend - Mobile View 5'
     },
     {
-        image: require('../images/slides/_USANA-mobile-onlineEnrollment-5-infoCollection.jpg'),
+        image: require('../images/slides/USANA-mobile-onlineEnrollment-5-infoCollection.jpg'),
         description: 'Usana Online Enrollment - design & frontend - Mobile View 6'
     }
 ]
